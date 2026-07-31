@@ -1,35 +1,43 @@
 <div align="center">
 
-<!-- Animated Typing Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lohith%20Rajendran&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descAlign=50" width="100%"/>
+<img src="assets/banner.gif" width="100%" alt="Lohith Rajendran Banner"/>
 
-<!-- Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Welcome+to+my+GitHub+Profile!;💻+Python+Developer;🏦+Building+Smart+Systems+%26+Cool+Apps;🌱+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+# 🐍 Lohith Rajendran
 
-<!-- Profile views & followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=cibiLohith-possible&label=Profile%20Views&color=7B61FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/cibiLohith-possible?style=for-the-badge&logo=github&labelColor=0D1117&color=7B61FF)](https://github.com/cibiLohith-possible)
-[![GitHub Stars](https://img.shields.io/github/stars/cibiLohith-possible?style=for-the-badge&logo=github&labelColor=0D1117&color=00D9FF)](https://github.com/cibiLohith-possible)
+### 🕷️ Friendly Neighborhood Python Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Building+Scalable+Applications;Django+%7C+FastAPI+%7C+PostgreSQL;LeetCode+Problem+Solver;Always+Learning+New+Technologies" />
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=LohithRajendran&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 👨‍💻 About Me
 
-```python
-class LohithRajendran:
-    def __init__(self):
-        self.name        = "Lohith Rajendran"
-        self.username    = "cibiLohith-possible"
-        self.location    = "India 🇮🇳"
-        self.languages   = ["Python"]
-        self.interests   = ["Web Dev", "System Design", "Gaming", "AI"]
-        self.currently   = "Building cool projects on GitHub 🚀"
-        self.fun_fact    = "I turn ☕ coffee into code!"
+- 🐍 Python Developer
+- 🚀 Backend Development Enthusiast
+- 🌱 Learning Django, FastAPI & System Design
+- 📚 Strong in Object-Oriented Programming
+- 💾 PostgreSQL & SQL
+- ⚡ Data Structures & Algorithms
+- 🔥 Passionate about building scalable Python applications
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🔥")
-
-me = LohithRajendran()
-me.say_hi()
+---
