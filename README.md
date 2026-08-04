@@ -4,7 +4,7 @@
 
 # 🐍 Lohith Rajendran
 
-### 🕷️ Friendly Neighborhood Python Developer
+###  Friendly Neighborhood Python Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Building+Scalable+Applications;Django+%7C+FastAPI+%7C+PostgreSQL;LeetCode+Problem+Solver;Always+Learning+New+Technologies" />
 
