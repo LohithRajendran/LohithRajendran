@@ -232,7 +232,7 @@ Production-ready Django web app with custom user authentication, admin panel, RE
 
 Python CLI tool that tracks and visualizes daily LeetCode progress, problem categorization, and time-complexity notes.
 
-<a href="https://leetcode.com/u/cibilohith_08/">
+<a href="https://github.com/LohithRajendran">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View" />
 </a>
 
@@ -281,7 +281,7 @@ Python CLI tool that tracks and visualizes daily LeetCode progress, problem cate
 <a href="https://www.linkedin.com/in/lohithrajendran" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://leetcode.com/LohithRajendran" target="_blank">
+<a href="[https://leetcode.com/u/cibilohith_08" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
