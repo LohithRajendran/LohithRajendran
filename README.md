@@ -151,18 +151,6 @@ print(me.say_hi())
 
 <br>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LohithRajendran&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3776AB&icon_color=009688&text_color=e2e8f0&border_color=3776AB40" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohithRajendran&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3776AB&text_color=e2e8f0&border_color=3776AB40" height="170" alt="Top Languages" />
-
-</div>
-
-<br>
-<hr>
-<br>
-
 <!-- GitHub Streak & Activity -->
 <div align="center">
 
