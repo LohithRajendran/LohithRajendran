@@ -259,23 +259,6 @@ Python CLI tool that tracks and visualizes daily LeetCode progress, problem cate
 <hr>
 <br>
 
-<!-- Snake Contribution Animation -->
-<div align="center">
-
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake.svg" width="100%" alt="Snake Animation" />
-</picture>
-
-</div>
-
-<br>
-<hr>
-<br>
-
 <!-- Connect Section -->
 <div align="center">
 
