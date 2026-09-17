@@ -66,7 +66,7 @@ class Developer:
         self.location   = "India"
         self.stack      = ["Python", "Django", "FastAPI", "PostgreSQL"]
         self.mindset    = ["Curiosity", "Consistency", "Growth"]
-        self.leetcode   = "100+ problems solved"
+        self.leetcode   = "585+ problems solved"
         self.learning   = "System Design & Scalability"
 
     def say_hi(self):
@@ -151,7 +151,7 @@ print(me.say_hi())
 
 <br>
 
-<!-- Skill Progress Bars (via gradient shields) -->
+<!-- GitHub Stats -->
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=LohithRajendran&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3776AB&icon_color=009688&text_color=e2e8f0&border_color=3776AB40" height="170" alt="GitHub Stats" />
@@ -166,7 +166,7 @@ print(me.say_hi())
 <!-- GitHub Streak & Activity -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LohithRajendran&theme=transparent&hide_border=true&background=00000000&ring=3776AB&fire=009688&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=009688&sideLabels=e2e8f0&dates=e2e8f0" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=LohithRajendran&theme=transparent&hide_border=true&background=00000000&ring=3776AB&fire=009688&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=009688&sideLabels=e2e8f0&dates=e2e8f0" alt="GitHub Streak" />
 
 </div>
 
@@ -249,7 +249,9 @@ Python CLI tool that tracks and visualizes daily LeetCode progress, problem cate
 
 ## 🎯 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/LohithRajendran?theme=transparent&font=Fira+Code&border=3776AB40&cache=1800&animation=wobble" width="90%" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/cibilohith_08/" target="_blank">
+<img src="https://leetcard.jacoblin.cool/cibilohith_08?theme=transparent&font=Fira+Code&border=3776AB40&cache=1800&animation=wobble&ext=heatmap" width="90%" alt="LeetCode Stats" />
+</a>
 
 </div>
 
@@ -262,7 +264,11 @@ Python CLI tool that tracks and visualizes daily LeetCode progress, problem cate
 
 ## 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake.svg" width="100%" alt="Snake Animation" />
+</picture>
 
 </div>
 
@@ -293,13 +299,10 @@ Python CLI tool that tracks and visualizes daily LeetCode progress, problem cate
 
 <div align="center">
 
-<!-- Snake divider -->
-<img src="https://raw.githubusercontent.com/LohithRajendran/LohithRajendran/output/github-snake-dark.svg" width="0" height="0" alt="snake" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:009688,100:336791&height=80&section=footer&text=&fontSize=0" width="100%" alt="Footer Wave" />
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave"> Thanks for visiting my profile!
 
-<p><i>“Building things that last — one commit at a time.”</i></p>
+<p><i>"Building things that last — one commit at a time."</i></p>
 
 </div>
